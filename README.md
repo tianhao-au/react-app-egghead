@@ -6,5 +6,6 @@
 `$ npm install webpack -g`
 `$ npm install --save react-router`
 `$ npm install --save axios@0.8.0`
+`$ npm install --save re-base`
 
 https://egghead.io/playlists/the-this-key-word-250c37d9
